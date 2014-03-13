@@ -1,9 +1,5 @@
-
 *.approj
-*.ccbproj
-*.xcodeproj 
 SpriteBuilder Resources/
-FlappyBird.xcodeproj/
 build/
 *.o
 *.class
@@ -11,3 +7,6 @@ build/
 *.exe
 *.com
 *.txt
+tdir/second/
+Source/libs/
+Source/Resources
