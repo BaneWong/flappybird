@@ -1,0 +1,12 @@
+*.approj
+*.ccbproj
+*.xcodeproj 
+SpriteBuilder Resources/
+FlappyBird.xcodeproj/
+build/
+*.o
+*.class
+*.dll
+*.exe
+*.com
+*.txt
