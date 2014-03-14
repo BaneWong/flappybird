@@ -10,3 +10,4 @@ build/
 tdir/second/
 Source/libs/
 Source/Resources
+!Source/Resources/Published-IOS
