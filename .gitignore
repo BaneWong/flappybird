@@ -9,8 +9,8 @@ build/
 *.txt
 *.xcuserstate
 Source/libs/
-Source/Resources
-!Source/Resources/Published-IOS/
+Source/Resources/
+!Source/Resources/Published-iOS/
 # Created by http://www.gitignore.io
 
 ### Xcode ###
