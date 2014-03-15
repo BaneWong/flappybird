@@ -7,6 +7,14 @@ build/
 *.exe
 *.com
 *.txt
+*.xcuserstate
 Source/libs/
 Source/Resources
 !Source/Resources/Published-IOS/
+# Created by http://www.gitignore.io
+
+### Xcode ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+
